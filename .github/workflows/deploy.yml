@@ -1,4 +1,4 @@
-name: deploytest
+name: deploy
 
 on:
   push:
@@ -28,8 +28,5 @@ jobs:
         with:
           branch: gh-page
           folder: dist
-          cname: docs.mesagisto.org        
-          force_orphan: true        
-          user_name: github-actions[bot]        
-          user_email: github-actions[bot]@users.noreply.github.com
+          cname: mossfrp.ghs.wiki      
 
