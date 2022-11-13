@@ -1,6 +1,5 @@
 import { defineConfig } from 'dumi';
 
-const repo = 'MossFrpWiki-4.0'
 export default defineConfig({
   title: 'MossFrp',
   mode: 'site',
@@ -8,8 +7,6 @@ export default defineConfig({
   logo: 'https://yyang.zengarden.top/img/mossfrp/logo.png',
   locales: [['zh-CN', '中文']],
   mfsu: {},
-  base: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
-  publicPath: process.env.NODE_ENV === 'production' ? `/${repo}/` : '/',
   navs: {
     'zh-CN': [
       null,
