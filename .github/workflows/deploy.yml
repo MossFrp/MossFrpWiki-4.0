@@ -23,8 +23,13 @@ jobs:
           npm install
           npm run build
 
-      - name: Deploy to Github
+      - name: Deploy 
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
           branch: gh-page
           folder: dist
+          cname: docs.mesagisto.org        
+          force_orphan: true        
+          user_name: github-actions[bot]        
+          user_email: github-actions[bot]@users.noreply.github.com
+
