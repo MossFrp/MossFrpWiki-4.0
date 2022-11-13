@@ -1,5 +1,6 @@
 import { defineConfig } from 'dumi';
 
+const repo = 'MossFrpWiki-4.0'
 export default defineConfig({
   title: 'MossFrp',
   mode: 'site',
