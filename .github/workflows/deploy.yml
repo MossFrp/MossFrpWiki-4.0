@@ -28,5 +28,4 @@ jobs:
         with:
           branch: gh-page
           folder: dist
-          cname: mossfrp.ghs.wiki      
 
