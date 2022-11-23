@@ -11,7 +11,7 @@ export default defineConfig({
     'zh-CN': [
       null,
       { title: 'GitHub', path: 'https://github.com/mossfrp' },
-      { title: '官网', path: 'https://mossfrp.top' },
+      { title: '官网', path: 'https://www.mossfrp.top' },
     ],
   },
   // more config: https://d.umijs.org/config
