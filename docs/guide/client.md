@@ -24,7 +24,7 @@ Windows 系统本是不带Java运行环境的，所以我们需要自行去下�
 ![1](https://s1.ax1x.com/2022/10/27/xhMdot.md.png)
 #### 创建激活码
 > 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#创建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
 
 [![xhQimd.md.png](https://s1.ax1x.com/2022/10/27/xhQimd.md.png)](https://imgse.com/i/xhQimd)
 #### 查看激活码
@@ -143,7 +143,7 @@ java -jar MossFrpJava.jar -MossFrp=nb
 [![zCrWGR.md.jpg](https://s1.ax1x.com/2022/11/11/zCrWGR.md.jpg)](https://imgse.com/i/zCrWGR)
 #### 创建激活码
 > 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#创建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
 
 [![zCrfR1.md.jpg](https://s1.ax1x.com/2022/11/11/zCrfR1.md.jpg)](https://imgse.com/i/zCrfR1)
 #### 查看激活码
@@ -265,7 +265,7 @@ tunnelExtraSettings: ""
 [![ziGWxe.md.png](https://s1.ax1x.com/2022/11/12/ziGWxe.md.png)](https://imgse.com/i/ziGWxe)
 #### 创建激活码
 > 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#创建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
 
 [![ziJSZn.md.png](https://s1.ax1x.com/2022/11/12/ziJSZn.md.png)](https://imgse.com/i/ziJSZn)
 #### 查看激活码
@@ -369,7 +369,7 @@ tunnelExtraSettings: ""
 #### 创建激活码
 
 > 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#创建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
 
 [![zFuTDP.md.png](https://s1.ax1x.com/2022/11/13/zFuTDP.md.png)](https://imgse.com/i/zFuTDP)
 
@@ -477,7 +477,7 @@ Windows 系统貌似是不带有.NET 6.3 运行环境的，但是本软件需要
 [![zFMeJg.md.png](https://s1.ax1x.com/2022/11/13/zFMeJg.md.png)](https://imgse.com/i/zFMeJg)
 #### 创建激活码
 > 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#创建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
 
 [![zFlwa6.md.png](https://s1.ax1x.com/2022/11/13/zFlwa6.md.png)](https://imgse.com/i/zFlwa6)
 #### 查看激活码
@@ -513,7 +513,7 @@ MossFrpClient是MossFrp最简化标准版，有设置引导，不需要配置运
 [![zFd7qS.md.png](https://s1.ax1x.com/2022/11/13/zFd7qS.md.png)](https://imgse.com/i/zFd7qS)
 #### 创建激活码
 > 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#创建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
 
 [![zFdjGn.md.png](https://s1.ax1x.com/2022/11/13/zFdjGn.md.png)](https://imgse.com/i/zFdjGn)
 #### 查看激活码
@@ -547,7 +547,7 @@ MossFrpClient_Fastv是Windows命令行的极度简化版，有设置引导，关
 [![zFDSMt.md.png](https://s1.ax1x.com/2022/11/13/zFDSMt.md.png)](https://imgse.com/i/zFDSMt)
 #### 创建激活码
 > 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#创建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
 
 [![zFdjGn.md.png](https://s1.ax1x.com/2022/11/13/zFdjGn.md.png)](https://imgse.com/i/zFdjGn)
 #### 查看激活码
