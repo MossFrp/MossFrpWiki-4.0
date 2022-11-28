@@ -21,8 +21,8 @@ nav:
 ## 版本区别
 [最推荐]MossFrpJava.jar是java端，支持win/linux，一个jar支持独立运行/bc/spigot/velocity，上手难度中等，功能最全，需要java环境
 
-[推荐]MossFrp_Client_Fastv.exe是Windows命令行的极度简化版，有设置引导，使用无残留，不需要配置环境
+[最推荐]MossFrp_Client_Fastv.exe是Windows命令行的极度简化版，有设置引导，使用无残留，不需要配置环境
+
+[较推荐]MossFrp_Client.exe是Windows命令行的简化标准版，有设置引导，不需要配置环境
 
 [不推荐]MossFrp.exe是简易GUI图形化客户端，适合萌新小白，上手难度最低，需要.net6环境
-
-[不推荐]MossFrp_Client.exe是Windows命令行的简化标准版，有设置引导，不需要配置环境
