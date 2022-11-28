@@ -4,6 +4,8 @@ hero:
   title: MossFrp 帮助文档
   desc: 一个轻量，便捷，可白嫖的内网穿透项目
   actions:
+    - text: 开发文档
+      link: /develop
     - text: 快速上手
       link: /guide
     - text: 常见问题
