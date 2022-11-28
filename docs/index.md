@@ -4,12 +4,12 @@ hero:
   title: MossFrp 帮助文档
   desc: 一个轻量，便捷，可白嫖的内网穿透项目
   actions:
-    - text: 开发文档
+    - text: 开发者相关
       link: /develop
-    - text: 快速上手
-      link: /guide
     - text: 常见问题
       link: /question
+    - text: 快速上手
+      link: /guide
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/f093e060-726e-471c-a53e-e988ed3f560c/kj9t9sk7_w144_h144.png
     title: 不限流量
