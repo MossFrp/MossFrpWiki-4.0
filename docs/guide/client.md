@@ -1,6 +1,6 @@
 ---
 title: 客户端使用教程
-order: 1
+order: 2
 toc: menu
 ---
 ## MossFrpJava 系列
@@ -22,17 +22,13 @@ Windows 系统本是不带Java运行环境的，所以我们需要自行去下�
 双击run.bat启动后，当我们看到`[信息]启动完成！耗时0.912秒！使用指令‘help’来查看帮助！`就说明他已经启动成功了
 
 ![1](https://s1.ax1x.com/2022/10/27/xhMdot.md.png)
-#### 创建激活码
-> 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+#### 获取穿透码
+获取穿透码此处不再额外赘述，请参考穿透码相关教程：
 
-[![xhQimd.md.png](https://s1.ax1x.com/2022/10/27/xhQimd.md.png)](https://imgse.com/i/xhQimd)
-#### 查看激活码
-这一步我们可以私聊BOT/邮件查看我们的穿透码，我这里选择邮件查看的方法，在群内发送`#穿透码邮件`Bot就会给我们发送带有穿透码的邮件。
+[获取穿透码教程](/guide/code.md)
 
-[![xhQGt0.md.png](https://s1.ax1x.com/2022/10/27/xhQGt0.md.png)](https://imgse.com/i/xhQGt0)
 #### 使用穿透码
-我们在邮箱内查看Bot发送给我们的邮件，在穿透码栏复制我们的穿透码，在刚刚打开的客户端中使用`save 名字 穿透码`
+我们在刚刚打开的客户端中使用`save 名字 穿透码`
 
 [![xhQ0B9.md.png](https://s1.ax1x.com/2022/10/27/xhQ0B9.md.png)](https://imgse.com/i/xhQ0B9)
 #### 配置穿透码
@@ -141,17 +137,13 @@ java -jar MossFrpJava.jar -MossFrp=nb
 ```
 
 [![zCrWGR.md.jpg](https://s1.ax1x.com/2022/11/11/zCrWGR.md.jpg)](https://imgse.com/i/zCrWGR)
-#### 创建激活码
-> 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+#### 获取穿透码
+获取穿透码此处不再额外赘述，请参考穿透码相关教程：
 
-[![zCrfR1.md.jpg](https://s1.ax1x.com/2022/11/11/zCrfR1.md.jpg)](https://imgse.com/i/zCrfR1)
-#### 查看激活码
-这一步我们可以私聊BOT/邮件查看我们的穿透码，我这里选择邮件查看的方法，在群内发送`#穿透码邮件`Bot就会给我们发送带有穿透码的邮件。
+[获取穿透码教程](/guide/code.md)
 
-[![zCrhxx.md.jpg](https://s1.ax1x.com/2022/11/11/zCrhxx.md.jpg)](https://imgse.com/i/zCrhxx)
 #### 使用穿透码
-我们在邮箱内查看Bot发送给我们的邮件，在穿透码栏复制我们的穿透码，在刚刚打开的客户端中使用`save 名字 穿透码`
+我们在刚刚打开的客户端中使用`save 名字 穿透码`
 
 [![zCroqO.md.png](https://s1.ax1x.com/2022/11/11/zCroqO.md.png)](https://imgse.com/i/zCroqO)
 #### 配置穿透码
@@ -263,17 +255,13 @@ tunnelExtraSettings: ""
 如果你的minecraft开启了版本隔离，那么你的mod文件夹就应该在`\.minecraft\versions\版本名\mods`，但如果你没有开启那么你的mod文件夹会在`\.minecraft\mods`，我们将自己所需环境的前置mod和MossFrpJava.jar移动到mod文件夹后启动，启动成功后我们可以点到Mod选项中查看是否有MossFrp相关的两个Mod（一个主文件，一个前置
 
 [![ziGWxe.md.png](https://s1.ax1x.com/2022/11/12/ziGWxe.md.png)](https://imgse.com/i/ziGWxe)
-#### 创建激活码
-> 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+#### 获取穿透码
+获取穿透码此处不再额外赘述，请参考穿透码相关教程：
 
-[![ziJSZn.md.png](https://s1.ax1x.com/2022/11/12/ziJSZn.md.png)](https://imgse.com/i/ziJSZn)
-#### 查看激活码
-这一步我们可以私聊BOT/邮件查看我们的穿透码，我这里选择邮件查看的方法，在群内发送`#穿透码邮件`Bot就会给我们发送带有穿透码的邮件。
+[获取穿透码教程](/guide/code.md)
 
-[![zit5qJ.md.jpg](https://s1.ax1x.com/2022/11/12/zit5qJ.md.jpg)](https://imgse.com/i/zit5qJ)
 #### 使用穿透码
-首先进入我们需要让好基友进入的地图，开启局域网链接，之后我们在邮箱内查看Bot发送给我们的邮件，在穿透码栏复制我们的穿透码，在刚刚打开的客户端中使用`mossfrp save 名字 穿透码`
+首先进入我们需要让好基友进入的地图，开启局域网链接，之后我们复制我们的穿透码，在刚刚打开的客户端中使用`mossfrp save 名字 穿透码`
 
 [![zityan.png](https://s1.ax1x.com/2022/11/12/zityan.md.png)](https://imgse.com/i/zityan)
 #### 配置穿透码
@@ -366,22 +354,15 @@ tunnelExtraSettings: ""
 #### 启动
 在群文件/Github内下载MossFrpJava.jar，将他移动到服务器的Plugins目录，然后开启服务器，当我们看到`[MossFrp] Enabling MossFrp`就说明他已经启动成功了。
 [![zFu5jI.md.jpg](https://s1.ax1x.com/2022/11/13/zFu5jI.md.jpg)](https://imgse.com/i/zFu5jI)
-#### 创建激活码
 
-> 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+#### 获取穿透码
+获取穿透码此处不再额外赘述，请参考穿透码相关教程：
 
-[![zFuTDP.md.png](https://s1.ax1x.com/2022/11/13/zFuTDP.md.png)](https://imgse.com/i/zFuTDP)
-
-#### 查看激活码
-
-这一步我们可以私聊BOT/邮件查看我们的穿透码，我这里选择邮件查看的方法，在群内发送`#穿透码邮件`Bot就会给我们发送带有穿透码的邮件。
-
-[![zFu7Hf.md.jpg](https://s1.ax1x.com/2022/11/13/zFu7Hf.md.jpg)](https://imgse.com/i/zFu7Hf)
+[获取穿透码教程](/guide/code.md)
 
 #### 使用穿透码
 
-我们在邮箱内查看Bot发送给我们的邮件，在穿透码栏复制我们的穿透码，在刚刚打开的客户端中使用`mossfrp save 名字 穿透码`
+我们在复制我们的穿透码，在刚刚打开的客户端中使用`mossfrp save 名字 穿透码`
 
 [![zFubE8.md.png](https://s1.ax1x.com/2022/11/13/zFubE8.md.png)](https://imgse.com/i/zFubE8)
 
@@ -475,17 +456,13 @@ Windows 系统貌似是不带有.NET 6.3 运行环境的，但是本软件需要
 安装完后，我们从群文件中下载`[.NET]MossFrpGUI-ki-小白选这个-win32`，当你看到主窗口时便启动成功了。
 
 [![zFMeJg.md.png](https://s1.ax1x.com/2022/11/13/zFMeJg.md.png)](https://imgse.com/i/zFMeJg)
-#### 创建激活码
-> 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+#### 获取穿透码
+获取穿透码此处不再额外赘述，请参考穿透码相关教程：
 
-[![zFlwa6.md.png](https://s1.ax1x.com/2022/11/13/zFlwa6.md.png)](https://imgse.com/i/zFlwa6)
-#### 查看激活码
-这一步我们可以私聊BOT/邮件查看我们的穿透码，我这里选择邮件查看的方法，在群内发送`#穿透码邮件`Bot就会给我们发送带有穿透码的邮件。
+[获取穿透码教程](/guide/code.md)
 
-[![zFlrGD.md.jpg](https://s1.ax1x.com/2022/11/13/zFlrGD.md.jpg)](https://imgse.com/i/zFlrGD)
 #### 使用穿透码
-我们在邮箱内查看Bot发送给我们的邮件，在穿透码栏复制我们的穿透码，在刚刚打开的客户端中输入我们的穿透码并点击解析穿透码
+我们在复制我们的穿透码，在刚刚打开的客户端中输入我们的穿透码并点击解析穿透码
 
 [![zFlyxH.md.png](https://s1.ax1x.com/2022/11/13/zFlyxH.md.png)](https://imgse.com/i/zFlyxH)
 #### 配置穿透码
@@ -511,17 +488,13 @@ MossFrpClient是MossFrp最简化标准版，有设置引导，不需要配置运
 在群文件内下载MossFrp_Client并打开它，你就可以看见一个cmd窗口，并在目录下看见多出来三个文件，看见`请输入穿透码`说明就已经启动成功了
 
 [![zFd7qS.md.png](https://s1.ax1x.com/2022/11/13/zFd7qS.md.png)](https://imgse.com/i/zFd7qS)
-#### 创建激活码
-> 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+#### 获取穿透码
+获取穿透码此处不再额外赘述，请参考穿透码相关教程：
 
-[![zFdjGn.md.png](https://s1.ax1x.com/2022/11/13/zFdjGn.md.png)](https://imgse.com/i/zFdjGn)
-#### 查看激活码
-这一步我们可以私聊BOT/邮件查看我们的穿透码，我这里选择邮件查看的方法，在群内发送`#穿透码邮件`Bot就会给我们发送带有穿透码的邮件。
+[获取穿透码教程](/guide/code.md)
 
-[![zFwMZD.md.png](https://s1.ax1x.com/2022/11/13/zFwMZD.md.png)](https://imgse.com/i/zFwMZD)
 #### 使用穿透码
-我们在邮箱内查看Bot发送给我们的邮件，在穿透码栏复制我们的穿透码，在刚刚打开的客户端中粘贴进去
+我们复制我们的穿透码，在刚刚打开的客户端中粘贴进去
 
 [![zFwlIH.md.png](https://s1.ax1x.com/2022/11/13/zFwlIH.md.png)](https://imgse.com/i/zFwlIH)
 #### 配置穿透码
@@ -545,17 +518,13 @@ MossFrpClient_Fastv是Windows命令行的极度简化版，有设置引导，关
 在群文件内下载MossFrp_Client_Fastv并打开它，你就可以看见一个cmd窗口，并在目录下看见多出来三个文件，看见`请输入穿透码`说明就已经启动成功了
 
 [![zFDSMt.md.png](https://s1.ax1x.com/2022/11/13/zFDSMt.md.png)](https://imgse.com/i/zFDSMt)
-#### 创建激活码
-> 在我们获取激活码之前，我们要先需要一个MossFrp账户，在群里发送`#注册`即可，非常简单，我这里不再过多的赘述
-在群内发送`#新建穿透码 节点 带宽 天数`即可创建，我这里使用qd1作为演示节点
+#### 获取穿透码
+获取穿透码此处不再额外赘述，请参考穿透码相关教程：
 
-[![zFdjGn.md.png](https://s1.ax1x.com/2022/11/13/zFdjGn.md.png)](https://imgse.com/i/zFdjGn)
-#### 查看激活码
-这一步我们可以私聊BOT/邮件查看我们的穿透码，我这里选择邮件查看的方法，在群内发送`#穿透码邮件`Bot就会给我们发送带有穿透码的邮件。
+[获取穿透码教程](/guide/code.md)
 
-[![zFwMZD.md.png](https://s1.ax1x.com/2022/11/13/zFwMZD.md.png)](https://imgse.com/i/zFwMZD)
 #### 使用穿透码
-我们在邮箱内查看Bot发送给我们的邮件，在穿透码栏复制我们的穿透码，在刚刚打开的客户端中粘贴进去
+我们复制我们的穿透码，在刚刚打开的客户端中粘贴进去
 
 [![zFDPZ8.md.png](https://s1.ax1x.com/2022/11/13/zFDPZ8.md.png)](https://imgse.com/i/zFDPZ8)
 #### 配置穿透码
