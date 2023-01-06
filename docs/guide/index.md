@@ -11,6 +11,7 @@ nav:
 MossFrp是一个内网穿透服务项目，致力于提供优质且可靠的内网穿透
 <br>我们使用自研管理后端，同时拥有大量国内节点
 <br>用途包括但不限于MC联机，Steam游戏联机，远程桌面等
+
 ### 提问的智慧
 为提高问题解决效率，对于需要提问的用户，我们给出以下建议：
 - 1.首先，如果是系统问题等非MossFrpFrp问题，请先通过关键词百度/Bing/Google搜索
@@ -18,6 +19,7 @@ MossFrp是一个内网穿透服务项目，致力于提供优质且可靠的内�
 - 3.然后，如果是文档内未提及的问题或一些解决方法不明确的问题，请先到用户群内提问，提问时请带上一切可能有用的截图，如MossFrp客户端截图，日志截图，报错截图等（请注意给您的穿透码打码）
 - 4.最后，如果群内迟迟没有人回答或群友提供的解决方案不可行，联系管理员或群主，带上问题信息提问
 - PS：如果您的提问为已经在文档提供解决方法的问题，向墨守提问的时候可能会遇到一只暴躁的墨守喔~
+- 用户交流群：（四群）207807775
 
 ## 注册教程
 ### 群机器人注册
@@ -31,25 +33,27 @@ MossFrp是一个内网穿透服务项目，致力于提供优质且可靠的内�
 - 1.https://panel.mossfrp.top/#/register
 - 2.应该没什么好教的，挺简单的
 
+## 穿透码教程
+> 与友商不同的是，MossFrp使用了一种独有的密钥格式：穿透码，请先阅读穿透码教程以了解此内容
+- [穿透码相关教程](/guide/code.md) 
+
 ## 客户端使用教程
+### 版本区别
+[最推荐]MossFrpJava.jar是java端，支持win/linux，一个jar支持独立运行/bc/spigot/velocity，上手难度略高，功能最全，需要java环境
+<br>[最推荐]MossFrp_Client_Fastv.exe是Windows命令行的极度简化版，有设置引导，使用无残留，不需要配置环境，建议新手小白用这个
+<br>[较推荐]MossFrp_Client.exe是Windows命令行的简化标准版，有设置引导，不需要配置环境
+<br>[不推荐]MossFrp.exe是简易GUI图形化客户端，适合萌新小白，上手难度最低，需要.net6环境（此版本客户端不再提供问题解答和技术支持）
 ### MossFrpJava 系列
-> Jar同时支持作为插件/独立客户端，功能较全，但需要Java环境
+> Jar同时支持作为模组/插件/独立客户端，功能较全，但需要Java8及以上的环境
 - [Windows使用方法](/guide/client.md#Windows-使用方法) | [Linux使用方法](/guide/client#linux-使用方法)
-
 - [Minecraft客户端使用方法](/guide/client#minecraft客户端使用方法) | [Minecraft服务端插件使用方法](/guide/client#minecraft服务端插件使用方法)
-### MossFrpGui 系列
-> 此类客户端偏小白向，但均为第三方开发者维护
-- [[.NET] MossFrpGui - ki](/guide/client#net-mossfrpgui---ki)
-### MossFrpScript 系列
+- PS：由于兼容困难，我们暂时不建议以插件/模组的形式运行，更推荐以独立客户端的形式运行
+### MossFrpClient 系列
+> 此系列客户端最为简单，推荐小白使用，不需要安装额外环境
 - [[Win]MossFrp_Client]() | [[Win]MossFrp_Client_Fastv]()
-## 版本区别
-[最推荐]MossFrpJava.jar是java端，支持win/linux，一个jar支持独立运行/bc/spigot/velocity，上手难度中等，功能最全，需要java环境
-
-[最推荐]MossFrp_Client_Fastv.exe是Windows命令行的极度简化版，有设置引导，使用无残留，不需要配置环境
-
-[较推荐]MossFrp_Client.exe是Windows命令行的简化标准版，有设置引导，不需要配置环境
-
-[不推荐]MossFrp.exe是简易GUI图形化客户端，适合萌新小白，上手难度最低，需要.net6环境
+### MossFrpGui 系列
+> 此类客户端偏小白向，但均为第三方开发者维护，有较多问题（此版本客户端不再提供问题解答和技术支持，不建议使用）
+- [[.NET] MossFrpGui - ki](/guide/client#net-mossfrpgui---ki)
 
 ## 修改密码
 ### Tips
