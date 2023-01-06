@@ -479,7 +479,7 @@ Windows 系统貌似是不带有.NET 6.3 运行环境的，但是本软件需要
 在我们配置好所有选项后，点击开始打洞，看到`你的远程连接地址为：xxxxxx`就说明已经成功了，把这段话复制给你的朋友，让他链接即可。
 
 [![zFlHMj.md.png](https://s1.ax1x.com/2022/11/13/zFlHMj.md.png)](https://imgse.com/i/zFlHMj)
-## MossFrpScript 系列
+## MossFrpClient 系列
 ### [Win]MossFrp_Client
 #### 前言&准备
 MossFrpClient是MossFrp最简化标准版，有设置引导，不需要配置运行环境的脚本，但关闭后文件还会存在，使用简单
