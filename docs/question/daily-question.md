@@ -9,6 +9,8 @@ nav:
 ## frpc 常见日志
 ### 'frpc.exe' 不是内部或外部命令，也不是可运行的程序
 本软件已和360/windef/卡巴斯基等杀毒软件达成单向合作，会随机触发彩蛋：报毒/找不到文件，若出现上述彩蛋请关闭/卸载360等杀毒软件（尤其是360）
+### 检测到潜在的病毒或恶意软件
+同上
 ### `[XXX]` start proxy success
 `XXX` 隧道启动成功，隧道启动成功，一切正常 
 ### recover success: [`XXX`]
@@ -22,9 +24,9 @@ nav:
 ### write message to control connection error: `XXX`
 控制连接写入失败, 可能是网络不稳定: `XXX`
 ### login to server failed: `XXX`
-登录节点失败, 请检查网络连接: `XXX`，你或许可以运行 PING 测试节点连通性
+登录节点失败, 请检查网络连接: `XXX`，你或许可以运行 PING 测试节点连通性，也可以检查穿透码是否到期
 ### connect to local service [`XXX`] error: `YYY`
-连接映射目标 [`XXX`] 失败, 请检查本地服务是否打开: `YYY`，可能是存在 frpc 进程残留
+连接映射目标 [`XXX`] 失败, 请检查本地服务是否打开: `YYY`
 
 ## 非X86系统使用
 ### 替换frpc
