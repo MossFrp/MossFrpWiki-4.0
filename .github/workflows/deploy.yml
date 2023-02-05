@@ -34,9 +34,9 @@ jobs:
           user_name: github-actions[bot]
           user_email: github-actions[bot]@users.noreply.github.com
   sync:
-         needs: build-and-deploy
-         runs-on: ubuntu-latest
-         steps:
+       needs: build-and-deploy
+       runs-on: ubuntu-latest
+       steps:
            - name: Sync to Gitee
              uses: wearerequired/git-mirror-action@master
              env:
