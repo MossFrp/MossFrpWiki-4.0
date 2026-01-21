@@ -1,7 +1,7 @@
 ---
 title: 帮助文档
 hero:
-  title: MossFrp 帮助文档
+  title: MoBoxFrp 帮助文档
   desc: 一个轻量，便捷，可白嫖的内网穿透项目
   actions:
     - text: 常见问题
@@ -20,7 +20,7 @@ features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
     title: 超低占用
     desc: 客户端在系统内占用极小，不影响流畅性
-footer: Copyright © 2022 [何阳阳](https://nekoyyang.eu.org)<br />Powered by [dumi](https://d.umijs.org)
+footer: Copyright © 2026 [何阳阳](https://nekoyyang.eu.org)<br />Powered by [dumi](https://d.umijs.org)
 
 ---
 
