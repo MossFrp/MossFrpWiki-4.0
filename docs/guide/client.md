@@ -41,7 +41,7 @@ pause
 
 <img width="510" height="616" alt="image" src="https://github.com/user-attachments/assets/2ab662e5-575e-47fe-b792-65e1b0264a9c" />
 
-不用我说了吧~
+不用我说了吧~输入账号密码就行了~
 
 #### 查看穿透码
 
@@ -89,4 +89,5 @@ pause
 #### [进阶玩法]把客户端部署成服务
 
 我觉得你都用Linux了肯定会这个吧~
+
 
