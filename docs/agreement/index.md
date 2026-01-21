@@ -11,4 +11,4 @@ nav:
 - ULA | User License Agreement
 - [点击查看](/agreement/ULA.md)
 
-> 使用MossFrp服务即代表同意以上协议
+> 使用MoBoxFrp服务即代表同意以上协议
