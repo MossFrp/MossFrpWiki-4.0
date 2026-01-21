@@ -5,10 +5,6 @@ toc: menu
 ## MossFrpClient 系列
 
 ### Windows 使用方法
- <details> <summary>视频教程</summary>
-
-<iframe src="//player.bilibili.com/player.html?aid=304583517&bvid=BV1CP411P7Tr&cid=874576568&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="700" height="400" allowfullscreen="true"> </iframe>
-</details>
 
 #### 前言&准备
 Windows 系统本是不带Java运行环境的，所以我们需要自行去下载，我这里推荐[ZuluJDK](https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jdk)，理论支持Java8+,安装Java这里就不在多赘述了，记得在安装页面勾选Java-Home。
@@ -92,5 +88,6 @@ pause
 #### [进阶玩法]把客户端部署成服务
 
 我觉得你都用Linux了肯定会这个吧~
+
 
 
