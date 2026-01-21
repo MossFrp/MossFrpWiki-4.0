@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: 'MossFrp',
+  title: 'MoBoxFrp',
   mode: 'site',
   favicon: 'https://yyang.zengarden.top/img/mossfrp/logo.svg',
   logo: 'https://yyang.zengarden.top/img/mossfrp/logo.png',
@@ -11,7 +11,7 @@ export default defineConfig({
     'zh-CN': [
       null,
       { title: 'GitHub', path: 'https://github.com/mossfrp' },
-      { title: '官网', path: 'https://www.mossfrp.top' },
+      { title: '官网', path: 'https://www.moboxfrp.top' },
     ],
   },
   // more config: https://d.umijs.org/config
